@@ -43,10 +43,20 @@
 ### 📊 GitHub Stats & Streaks
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=find-me-106&show_icons=true&theme=tokyonight" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=find-me-106&theme=tokyonight" width="48%" />
 </p>
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/find-me-106/find-me-106/output/github-contribution-grid-snake.svg" alt="Snake Game" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=find-me-106&layout=compact&theme=tokyonight" width="48%" />
+</p>
+
+---
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/find-me-106/find-me-106/output/github-contribution-grid-snake-dark.svg" alt="Snake Game" />
 </p>
 
 ---
